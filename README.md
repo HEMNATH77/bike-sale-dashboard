@@ -33,4 +33,9 @@
 <h2>Profit</h2>
     <p>Profit is the financial gain a company achieves after deducting all expenses from its total revenue. It is a key indicator of a business's financial health and operational efficiency. Profit can be analyzed in various forms, such as gross profit, operating profit, and net profit, each providing different insights into the cost structure and profitability. Understanding profit helps businesses make informed decisions about pricing, cost management, and investment strategies to enhance growth and sustainability.</p>
 <img align="center" alt="coding" width="400" src="https://github.com/HEMNATH77/bike-sale-dashboard/assets/146712643/9abcbd03-c9df-45ed-8cfc-3cd6154f049e">
-         
+<h2>Total Cost</h2>         
+      <p></p>
+<img align="center" alt="coding" width="400" src="https://github.com/HEMNATH77/bike-sale-dashboard/assets/146712643/0630389b-235d-4133-82f0-38509b1de53d">     
+<h2>DashBoard</h2>
+  <p></p>
+<img align="center" alt="coding" width="400" src="https://github.com/HEMNATH77/bike-sale-dashboard/assets/146712643/c7ed4eae-1af9-456e-abbe-cea176375a1d">
