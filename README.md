@@ -1,6 +1,6 @@
 <h1>BIKE SALES DATA ANALYSIS</h1>
 <h2>PROJECT OVERVIEW</h2>
-              <P>This Project focuses on cleaning and organizing the dataset of Bikes Sales from kaggle's Excel File. By using PowerBi visualisation Tool we can visualize the data easily and effectively.By Using Transform data option in PowerBi we can neglect the null values and unnecessary values in tha dataset.</P>
+              <P>This project focuses on cleaning and organizing the bike sales dataset from Kaggle's Excel file. By using the Power BI visualization tool, we can visualize the data easily and effectively. Utilizing the "Transform Data" option in Power BI, we can remove null values and unnecessary entries from the dataset..</P>
 <h1>STEPS</h1>
 <ol>
   <li> Check and View the Dataset in Excel </li>
@@ -32,7 +32,7 @@
 <img align="center" alt="coding" width="400" src="https://github.com/HEMNATH77/bike-sale-dashboard/assets/146712643/f4f6a92e-a1a1-45c8-98eb-6e3ecc86ba3e">
 <h2>Profit</h2>
     <p>Profit is the financial gain a company achieves after deducting all expenses from its total revenue. It is a key indicator of a business's financial health and operational efficiency. Profit can be analyzed in various forms, such as gross profit, operating profit, and net profit, each providing different insights into the cost structure and profitability. Understanding profit helps businesses make informed decisions about pricing, cost management, and investment strategies to enhance growth and sustainability.</p>
-<img align="center" alt="coding" width="400" src="https://github.com/HEMNATH77/bike-sale-dashboard/assets/146712643/9abcbd03-c9df-45ed-8cfc-3cd6154f049e">
+<img align="center" alt="coding" width="400" src="https://github.com/HEMNATH77/bike-sale-dashboard/assets/146712643/adfba513-9cfe-4f53-9c17-94e703aec9cf">
 <h2>Total Cost</h2>         
       <p>Total cost refers to the complete expenditure incurred by a business in the production and delivery of goods or services. It includes both fixed costs, such as rent and salaries, and variable costs, like raw materials and utilities. Analyzing total cost is essential for understanding the overall expense structure, setting prices, and determining profitability. Effective cost management can help businesses optimize operations, reduce expenses, and increase financial performance.</p>
 <img align="center" alt="coding" width="400" src="https://github.com/HEMNATH77/bike-sale-dashboard/assets/146712643/0630389b-235d-4133-82f0-38509b1de53d">     
